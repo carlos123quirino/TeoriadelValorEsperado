@@ -1,1 +1,1 @@
-# TeoriadelValorEsperado
+# Teorias
